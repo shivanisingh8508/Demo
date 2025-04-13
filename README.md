@@ -1,4 +1,4 @@
 # DEMO
 FIRST GIT REPOSITORY.
 <br>
-Author - Shivani
+Author - Shivani (Singh)
